@@ -1,0 +1,8 @@
+table{
+    width: 100%;
+    border-collapse: collapse;color: rgb(2, 98, 2);
+}
+th,td{
+    border: 3px solid #422c2c;
+    padding:8px
+}
